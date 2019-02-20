@@ -79,8 +79,8 @@ function getAlbums(e) {
 /// ____________________________________________________________________///
 
 /// ________________ მეოთხე __________________ ///
-function* generator(i) {
-
+function* generator() {
+  let i = 0;
   while(true){
     yield i;
     i += 2;
