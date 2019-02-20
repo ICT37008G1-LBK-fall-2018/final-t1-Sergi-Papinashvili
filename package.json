@@ -1,5 +1,5 @@
 {
-  "name": "final-t1-robertguitar20",
+  "name": "final-t1-sergi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -34,14 +34,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/final-t1-robertguitar20.git"
+    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/final-Sergi-Papinashvili.git"
   },
-  "author": "Robert_Aslanyan",
+  "author": "Sergi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-robertguitar20/issues"
+    "url": "https://github.com/ICT37008G1-LBK-fall-2018/final-Sergi-Papinashvili/issues"
   },
-  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-robertguitar20#readme",
+  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/final-Sergi-Papinashvili#readme",
   "dependencies": {
     "axios": "^0.18.0"
   }
